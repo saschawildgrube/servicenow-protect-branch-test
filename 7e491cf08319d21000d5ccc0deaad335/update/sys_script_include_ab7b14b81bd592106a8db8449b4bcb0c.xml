@@ -8,18 +8,32 @@
         <description/>
         <mobile_callable>false</mobile_callable>
         <name>test</name>
-        <script/>
+        <script><![CDATA[function test()
+{
+	return "hello";
+}]]></script>
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-10-14 13:53:25</sys_created_on>
         <sys_id>ab7b14b81bd592106a8db8449b4bcb0c</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>test</sys_name>
         <sys_package display_value="Protect Branch Test" source="x_snc_protect_bran">7e491cf08319d21000d5ccc0deaad335</sys_package>
         <sys_policy/>
         <sys_scope display_value="Protect Branch Test">7e491cf08319d21000d5ccc0deaad335</sys_scope>
         <sys_update_name>sys_script_include_ab7b14b81bd592106a8db8449b4bcb0c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-10-14 13:53:25</sys_updated_on>
+        <sys_updated_on>2024-10-14 13:58:23</sys_updated_on>
     </sys_script_include>
+    <sys_es_latest_script action="INSERT_OR_UPDATE">
+        <id>ab7b14b81bd592106a8db8449b4bcb0c</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-14 13:58:22</sys_created_on>
+        <sys_id>08cc14f81bd592106a8db8449b4bcbd1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-14 13:58:22</sys_updated_on>
+        <table>sys_script_include</table>
+        <use_es_latest>true</use_es_latest>
+    </sys_es_latest_script>
 </record_update>
