@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_snc_protect_bran.Test</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description>this is a test&#13;
+|&#13;
+Methods:&#13;
+* initialize()</description>
+        <name>Test</name>
+        <script><![CDATA[var Test = Class.create();
+Test.prototype = {
+    initialize: function() {
+		var str = 'fed7c75583dd961000d5ccc0deaad3f7';
+    },
+
+    type: 'Test'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-16 15:43:08</sys_created_on>
+        <sys_id>fed7c75583dd961000d5ccc0deaad3f7</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Test</sys_name>
+        <sys_package display_value="Protect Branch Test" source="x_snc_protect_bran">7e491cf08319d21000d5ccc0deaad335</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Protect Branch Test">7e491cf08319d21000d5ccc0deaad335</sys_scope>
+        <sys_update_name>sys_script_include_fed7c75583dd961000d5ccc0deaad3f7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-17 11:55:53</sys_updated_on>
+    </sys_script_include>
+</record_update>
