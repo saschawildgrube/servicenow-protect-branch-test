@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_snc_protect_bran.test</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>test</name>
+        <script><![CDATA[var test = Class.create();
+test.prototype = {
+    initialize: function() {
+    },
+
+    type: 'test'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-15 06:35:36</sys_created_on>
+        <sys_id>c04a63f28331d25000d5ccc0deaad367</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_package display_value="Protect Branch Test WORK IN PROGRESS" source="x_snc_protect_bran">7e491cf08319d21000d5ccc0deaad335</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Protect Branch Test WORK IN PROGRESS">7e491cf08319d21000d5ccc0deaad335</sys_scope>
+        <sys_update_name>sys_script_include_c04a63f28331d25000d5ccc0deaad367</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-15 06:35:36</sys_updated_on>
+    </sys_script_include>
+</record_update>

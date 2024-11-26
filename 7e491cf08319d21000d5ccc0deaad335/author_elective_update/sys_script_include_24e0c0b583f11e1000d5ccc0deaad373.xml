@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="DELETE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name/>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name/>
+        <script/>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-11 11:01:56</sys_created_on>
+        <sys_id>24e0c0b583f11e1000d5ccc0deaad373</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Protect Branch Test WORK IN PROGRESS" source="x_snc_protect_bran">7e491cf08319d21000d5ccc0deaad335</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Protect Branch Test WORK IN PROGRESS">7e491cf08319d21000d5ccc0deaad335</sys_scope>
+        <sys_update_name>sys_script_include_24e0c0b583f11e1000d5ccc0deaad373</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-11 11:01:56</sys_updated_on>
+    </sys_script_include>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Protect Branch Test WORK IN PROGRESS">7e491cf08319d21000d5ccc0deaad335</application>
+        <file_path/>
+        <instance_id>00dfd44b1b640a14a43dcb7b234bcbf2</instance_id>
+        <instance_name>wildwashington</instance_name>
+        <name>sys_script_include_24e0c0b583f11e1000d5ccc0deaad373</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include"><sys_script_include action="INSERT_OR_UPDATE"><access>package_private</access><active>true</active><api_name/><caller_access/><client_callable>false</client_callable><description/><name/><script/><sys_class_name>sys_script_include</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-11 11:01:56</sys_created_on><sys_id>24e0c0b583f11e1000d5ccc0deaad373</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Protect Branch Test WORK IN PROGRESS" source="x_snc_protect_bran">7e491cf08319d21000d5ccc0deaad335</sys_package><sys_policy/><sys_scope display_value="Protect Branch Test WORK IN PROGRESS">7e491cf08319d21000d5ccc0deaad335</sys_scope><sys_update_name>sys_script_include_24e0c0b583f11e1000d5ccc0deaad373</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-11 11:01:56</sys_updated_on></sys_script_include></record_update>]]></payload>
+        <payload_hash>-742329476</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>e9891c748319d21000d5ccc0deaad31c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-11 11:01:56</sys_created_on>
+        <sys_id>2ce0c0b583f11e1000d5ccc0deaad376</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1931ae330550000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-11 11:01:56</sys_updated_on>
+        <type>Script Include</type>
+        <update_guid>20e0c0b5d5f11e1040beff4df95e5476</update_guid>
+        <update_guid_history>20e0c0b5d5f11e1040beff4df95e5476:-742329476</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-11 11:03:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_include">sys_script_include</sys_db_object>
+        <sys_id>1058c460faad4b1581e1989ecbbcb7f1</sys_id>
+        <sys_metadata>24e0c0b583f11e1000d5ccc0deaad373</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Protect Branch Test WORK IN PROGRESS" source="x_snc_protect_bran">7e491cf08319d21000d5ccc0deaad335</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Protect Branch Test WORK IN PROGRESS">7e491cf08319d21000d5ccc0deaad335</sys_scope>
+        <sys_scope_delete display_value="">1cd09d6a9abd4d5eb0cbaed72cd12e64</sys_scope_delete>
+        <sys_update_name>sys_script_include_24e0c0b583f11e1000d5ccc0deaad373</sys_update_name>
+        <sys_update_version display_value="sys_script_include_24e0c0b583f11e1000d5ccc0deaad373">2ce0c0b583f11e1000d5ccc0deaad376</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-11 11:03:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
