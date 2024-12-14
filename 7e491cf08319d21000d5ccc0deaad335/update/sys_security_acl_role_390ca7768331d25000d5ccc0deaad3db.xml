@@ -6,9 +6,9 @@
         <sys_id>390ca7768331d25000d5ccc0deaad3db</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_protect_bran_test.admin</sys_name>
-        <sys_package display_value="Protect Branch Test WORK IN PROGRESS" source="x_snc_protect_bran">7e491cf08319d21000d5ccc0deaad335</sys_package>
+        <sys_package display_value="Protect Branch Test" source="x_snc_protect_bran">7e491cf08319d21000d5ccc0deaad335</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Protect Branch Test WORK IN PROGRESS">7e491cf08319d21000d5ccc0deaad335</sys_scope>
+        <sys_scope display_value="Protect Branch Test">7e491cf08319d21000d5ccc0deaad335</sys_scope>
         <sys_security_acl display_value="x_snc_protect_bran_test">e10ca7768331d25000d5ccc0deaad3d6</sys_security_acl>
         <sys_update_name>sys_security_acl_role_390ca7768331d25000d5ccc0deaad3db</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>

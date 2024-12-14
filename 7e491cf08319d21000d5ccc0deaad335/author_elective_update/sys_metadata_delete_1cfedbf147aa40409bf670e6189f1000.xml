@@ -29,7 +29,7 @@ rrrrrr.prototype = {
     </sys_script_include>
     <sys_update_version action="INSERT_OR_UPDATE">
         <action>DELETE</action>
-        <application display_value="Protect Branch Test WORK IN PROGRESS">7e491cf08319d21000d5ccc0deaad335</application>
+        <application display_value="Protect Branch Test">7e491cf08319d21000d5ccc0deaad335</application>
         <file_path/>
         <instance_id>00dfd44b1b640a14a43dcb7b234bcbf2</instance_id>
         <instance_name>wildwashington</instance_name>
@@ -66,16 +66,16 @@ rrrrrr.prototype = {
         <sys_db_object display_value="" name="sys_script_include">sys_script_include</sys_db_object>
         <sys_id>1cfedbf147aa40409bf670e6189f1000</sys_id>
         <sys_metadata>2be867728331d25000d5ccc0deaad364</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>rrrrrr</sys_name>
-        <sys_package display_value="Protect Branch Test WORK IN PROGRESS" source="x_snc_protect_bran">7e491cf08319d21000d5ccc0deaad335</sys_package>
+        <sys_package display_value="Protect Branch Test" source="x_snc_protect_bran">7e491cf08319d21000d5ccc0deaad335</sys_package>
         <sys_parent/>
-        <sys_policy>read</sys_policy>
-        <sys_scope display_value="Protect Branch Test WORK IN PROGRESS">7e491cf08319d21000d5ccc0deaad335</sys_scope>
+        <sys_policy/>
+        <sys_scope display_value="Protect Branch Test">7e491cf08319d21000d5ccc0deaad335</sys_scope>
         <sys_scope_delete display_value="">1cd09d6a9abd4d5eb0cbaed72cd12e64</sys_scope_delete>
-        <sys_update_name>sys_script_include_2be867728331d25000d5ccc0deaad364</sys_update_name>
+        <sys_update_name>sys_metadata_delete_1cfedbf147aa40409bf670e6189f1000</sys_update_name>
         <sys_update_version display_value="sys_script_include_2be867728331d25000d5ccc0deaad364">c9f867728331d25000d5ccc0deaad36e</sys_update_version>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-11-15 12:13:22</sys_updated_on>
+        <sys_updated_on>2024-12-14 18:55:46</sys_updated_on>
     </sys_metadata_delete>
 </record_update>
