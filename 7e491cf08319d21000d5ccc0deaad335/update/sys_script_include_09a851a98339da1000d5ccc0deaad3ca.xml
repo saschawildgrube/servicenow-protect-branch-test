@@ -20,9 +20,9 @@ OneClass.prototype = {
         <sys_id>09a851a98339da1000d5ccc0deaad3ca</sys_id>
         <sys_mod_count>4</sys_mod_count>
         <sys_name>OneClass</sys_name>
-        <sys_package display_value="Protect Branch Test" source="x_snc_protect_bran">7e491cf08319d21000d5ccc0deaad335</sys_package>
+        <sys_package display_value="Protect Branch Test WORK IN PROGRESS" source="x_snc_protect_bran">7e491cf08319d21000d5ccc0deaad335</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Protect Branch Test">7e491cf08319d21000d5ccc0deaad335</sys_scope>
+        <sys_scope display_value="Protect Branch Test WORK IN PROGRESS">7e491cf08319d21000d5ccc0deaad335</sys_scope>
         <sys_update_name>sys_script_include_09a851a98339da1000d5ccc0deaad3ca</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2024-11-10 23:06:28</sys_updated_on>
