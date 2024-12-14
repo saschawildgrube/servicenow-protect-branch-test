@@ -22,7 +22,7 @@
         <runtime_access_tracking>permissive</runtime_access_tracking>
         <scope>x_snc_protect_bran</scope>
         <scoped_administration>false</scoped_administration>
-        <short_description>xxx</short_description>
+        <short_description>xxxxxxx</short_description>
         <source>x_snc_protect_bran</source>
         <store_correlation_id/>
         <store_url/>
@@ -32,9 +32,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-10-14 13:43:16</sys_created_on>
         <sys_id>7e491cf08319d21000d5ccc0deaad335</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-12-14 20:10:44</sys_updated_on>
+        <sys_updated_on>2024-12-14 20:15:20</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
