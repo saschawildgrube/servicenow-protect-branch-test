@@ -24,9 +24,9 @@ Test.prototype = {
         <sys_id>fed7c75583dd961000d5ccc0deaad3f7</sys_id>
         <sys_mod_count>3</sys_mod_count>
         <sys_name>Test</sys_name>
-        <sys_package display_value="Protect Branch Test WORK IN PROGRESS" source="x_snc_protect_bran">7e491cf08319d21000d5ccc0deaad335</sys_package>
+        <sys_package display_value="Protect Branch Test" source="x_snc_protect_bran">7e491cf08319d21000d5ccc0deaad335</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Protect Branch Test WORK IN PROGRESS">7e491cf08319d21000d5ccc0deaad335</sys_scope>
+        <sys_scope display_value="Protect Branch Test">7e491cf08319d21000d5ccc0deaad335</sys_scope>
         <sys_update_name>sys_script_include_fed7c75583dd961000d5ccc0deaad3f7</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2024-10-17 11:55:53</sys_updated_on>
